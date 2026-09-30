@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Demo ABAP2XLSX'
+define service ZSD_DEMO_ABAP2XLSX {
+  expose ZC_DEMO_ABAP2XLSX as DemoAbap2xlsx;
+}
